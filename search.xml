@@ -4,8 +4,29 @@
   
     
     <entry>
+      <title><![CDATA[文章摘要设置]]></title>
+      <url>https://kaiminryan.github.io/2017/03/14/%E6%96%87%E7%AB%A0%E6%91%98%E8%A6%81%E8%AE%BE%E7%BD%AE/</url>
+      <content type="html"><![CDATA[<p>这是一段测试文章摘要的文章，是否显示全文！还是显示部分？所以我要尽可能的把字数写多，然后让其换行。这个博客还是花了点心思的，为了不必要的放弃，这次对博客的建立还是比较满意的。……………………………………………………</p>
+<h1 id="摘要测试"><a href="#摘要测试" class="headerlink" title="摘要测试"></a>摘要测试</h1>]]></content>
+      
+        <categories>
+            
+            <category> test </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[测试tags]]></title>
-      <url>http://yoursite.com/2017/03/14/%E6%B5%8B%E8%AF%95tags/</url>
+      <url>https://kaiminryan.github.io/2017/03/14/%E6%B5%8B%E8%AF%95tags/</url>
       <content type="html"><![CDATA[<p>测试tags页面是否完成！</p>
 <h2 id="天道酬勤"><a href="#天道酬勤" class="headerlink" title="天道酬勤"></a>天道酬勤</h2>]]></content>
       
@@ -30,7 +51,7 @@
     
     <entry>
       <title><![CDATA[重复一次]]></title>
-      <url>http://yoursite.com/2017/03/14/%E9%87%8D%E5%A4%8D%E4%B8%80%E6%AC%A1/</url>
+      <url>https://kaiminryan.github.io/2017/03/14/%E9%87%8D%E5%A4%8D%E4%B8%80%E6%AC%A1/</url>
       <content type="html"><![CDATA[<p>最重要的是问题解决的技能，必须要对问题进行简明的阐述，然后创造性的给出解答，并且能够将解决方案能够准确的表达出来。</p>
 <h2 id="学习的过程就是学习解决问题的过程"><a href="#学习的过程就是学习解决问题的过程" class="headerlink" title="学习的过程就是学习解决问题的过程"></a>学习的过程就是学习解决问题的过程</h2>]]></content>
       
@@ -45,7 +66,7 @@
     
     <entry>
       <title><![CDATA[部署hexo到github]]></title>
-      <url>http://yoursite.com/2017/03/14/%E9%83%A8%E7%BD%B2hexo%E5%88%B0github/</url>
+      <url>https://kaiminryan.github.io/2017/03/14/%E9%83%A8%E7%BD%B2hexo%E5%88%B0github/</url>
       <content type="html"><![CDATA[<h1 id="合适人群"><a href="#合适人群" class="headerlink" title="合适人群"></a>合适人群</h1><ol>
 <li>喜欢写写东西</li>
 <li>喜欢折腾</li>
@@ -113,7 +134,7 @@
     
     <entry>
       <title><![CDATA[welcome]]></title>
-      <url>http://yoursite.com/2017/03/14/welcome/</url>
+      <url>https://kaiminryan.github.io/2017/03/14/welcome/</url>
       <content type="html"><![CDATA[<p>第一个hexo，利用github发布，接下来的几篇会发布随手记</p>
 ]]></content>
       

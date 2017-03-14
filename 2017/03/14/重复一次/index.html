@@ -353,6 +353,32 @@
     </nav>
 
   
+  
+	<! -- ���Ӿ���ͼ�� -->
+<div class ="post-donate">
+    <div id="donate_board" class="donate_bar center">
+        <a id="btn_donate" class="btn_donate" href="javascript:;" title="donate"></a>
+        <span class="donate_txt">
+           <br>
+		   欣赏此文？求鼓励，求支持！
+        </span>
+        <br>
+      </div>  
+	<div id="donate_guide" class="donate_bar center hidden" >
+		<!-- ֧��������ͼ�� -->
+		<img src="/img/zfb.jpg" alt="֧��������"> 
+		<!-- ΢�Ŵ���ͼ�� -->
+		<img src="/img/wx.jpg" alt="΢�Ŵ���">  
+    </div>
+	<script type="text/javascript">
+		document.getElementById('btn_donate').onclick = function(){
+			$('#donate_board').addClass('hidden');
+			$('#donate_guide').removeClass('hidden');
+		}
+	</script>
+</div>
+<! -- ���Ӿ���ͼ�� -->
+  
 </article>
 
     <div id="toc" class="toc-article">
@@ -450,31 +476,6 @@
     <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2017/03/14/测试tags/">测试tags</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/14/重复一次/">重复一次</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/14/部署hexo到github/">部署hexo到github</a></li><li class="post-list-item"><a class="post-list-link" href="/2017/03/14/welcome/">welcome</a></li></ul>
 
 
-
-	<! -- ���Ӿ���ͼ�� -->
-<div class ="post-donate">
-    <div id="donate_board" class="donate_bar center">
-        <a id="btn_donate" class="btn_donate" href="javascript:;" title="����"></a>
-        <span class="donate_txt">
-           ��<br>
-		   欣赏此文？求鼓励，求支持！
-        </span>
-        <br>
-      </div>  
-	<div id="donate_guide" class="donate_bar center hidden" >
-		<!-- ֧��������ͼ�� -->
-		<img src="/img/zfb.jpg" alt="֧��������"> 
-		<!-- ΢�Ŵ���ͼ�� -->
-		<img src="/img/wx.jpg" alt="΢�Ŵ���">  
-    </div>
-	<script type="text/javascript">
-		document.getElementById('btn_donate').onclick = function(){
-			$('#donate_board').addClass('hidden');
-			$('#donate_guide').removeClass('hidden');
-		}
-	</script>
-</div>
-<! -- ���Ӿ���ͼ�� -->
 
 
     <script>

@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[测试七牛图床]]></title>
       <url>https://kaiminryan.github.io/2017/03/15/%E6%B5%8B%E8%AF%95%E4%B8%83%E7%89%9B%E5%9B%BE%E5%BA%8A/</url>
-      <content type="html"><![CDATA[<h2 id="测试图床"><a href="#测试图床" class="headerlink" title="测试图床"></a>测试图床</h2><p>花点时间把博客弄好！<br><img src="http://laosg.qiniudn.comzfb.png" alt="test七牛"></p>
+      <content type="html"><![CDATA[<h2 id="测试图床"><a href="#测试图床" class="headerlink" title="测试图床"></a>测试图床</h2><p>花点时间把博客弄好！<br><img src="http://laosg.qiniudn.com/zfb.png" alt="test七牛"></p>
 ]]></content>
       
         <categories>
@@ -145,9 +145,9 @@
         
         <tags>
             
-            <tag> hexo教学 </tag>
-            
             <tag> github </tag>
+            
+            <tag> hexo教学 </tag>
             
         </tags>
         
@@ -168,9 +168,9 @@
         
         <tags>
             
-            <tag> github </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> github </tag>
             
         </tags>
         
